@@ -1,0 +1,38 @@
+# ============================================================
+# AI-Powered Ecommerce Report Generation System
+# Requirements — Python 3.12+
+# ============================================================
+
+# --- Core Data Science ---
+numpy>=1.26.4
+pandas>=2.2.2
+scipy>=1.13.0
+
+# --- Machine Learning / Statistics ---
+scikit-learn>=1.4.2
+
+# --- Visualization ---
+matplotlib>=3.8.4
+plotly>=5.22.0
+kaleido>=0.2.1
+
+# --- AI / LLM ---
+anthropic>=0.28.0
+
+# --- Environment ---
+python-dotenv>=1.0.1
+
+# --- PDF Generation ---
+reportlab>=4.2.2
+fpdf2>=2.7.9
+
+# --- Jupyter ---
+notebook>=6.0.0
+ipykernel>=6.29.4
+jupyter-contrib-nbextensions>=0.7.0
+nbformat>=5.10.4
+
+# --- Utilities ---
+Pillow>=10.3.0
+tqdm>=4.66.4
+colorama>=0.4.6
